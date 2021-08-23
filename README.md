@@ -17,7 +17,7 @@ My blog is **[Hyperzsb's Ideas](https://blog.hyperzsb.tech/)**
 
 ## Other Activated GitHub Pages
 
-- [**bit-cs**](https://github.hyperzsb.tech/blog): Codes and other resources of courses offered in School of Computer Science & Technology, Beijing Institute of Technology
+- [**bit-cs**](https://github.hyperzsb.tech/bit-cs): Codes and other resources of courses offered in School of Computer Science & Technology, Beijing Institute of Technology
 - [**blog**](https://github.hyperzsb.tech/blog): Hyperzsb's Personal Blog Site with Jekyll
 
 ## More
