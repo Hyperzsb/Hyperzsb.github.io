@@ -1,5 +1,3 @@
-# Hyperzsb.github.io
-
 **This repository and document is only used for activating GitHub Pages of my GitHub account.**
 
 For more information about me, please just visit my [personal site](https://hyperzsb.io) or [GitHub homepage](https://github.com/Hyperzsb).
